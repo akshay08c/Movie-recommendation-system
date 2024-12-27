@@ -23,3 +23,8 @@ Creating User-Item Matrix, User-User and Item-Item similarity matrices for Movie
 Creating feature and applying ML models to predict the ratings for unseen movies for a user
 The detailed analysis and model creation can be found in the .ipynb file.
 
+Conclusions :
+In this project, we learned the importance of Recommendation Systems, the types of recommender systems being implemented, and how to use matrix factorization to enhance a system.
+We then built a movie recommendation system that considers user-user similarity, movie-movie similarity, global averages and matrix factorization. These concepts can be applied to any other user-item interactions systems.
+We tried generating recommendations based on similarity matrix and Collaborative Filtering techniques.
+We tried to predict the ratings for movies that the user might give based on its past rating behaviours and measure the accuracy using RMSE and MAPE error metrics.
